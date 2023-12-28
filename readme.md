@@ -8,7 +8,7 @@ Return the minimum time Bob needs to make the rope colorful.
 
 # Example 1:
 
-![points3](ballon1.png)
+![points3](balloon1.png)
 
 Input: colors = "abaac", neededTime = [1,2,3,4,5]
 Output: 3
@@ -17,13 +17,13 @@ Bob can remove the blue balloon at index 2. This takes 3 seconds.
 There are no longer two consecutive balloons of the same color. Total time = 3.
 
 Example 2:
-![points3](ballon2.png)
+![points3](balloon2.png)
 Input: colors = "abc", neededTime = [1,2,3]
 Output: 0
 Explanation: The rope is already colorful. Bob does not need to remove any balloons from the rope.
 
 Example 3:
-![points3](ballon3.png)
+![points3](balloon3.png)
 
 Input: colors = "aabaa", neededTime = [1,2,3,4,1]
 Output: 2
