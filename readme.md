@@ -20,6 +20,7 @@ There are no longer two consecutive balloons of the same color. Total time = 3.
 ## Example 2: 
 
 ![points3](balloon2.png)
+
 Input: colors = "abc", neededTime = [1,2,3]
 Output: 0
 Explanation: The rope is already colorful. Bob does not need to remove any balloons from the rope.
